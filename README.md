@@ -7,3 +7,5 @@ The increasing complexity of Artificial Intelligence models poses challenges to 
 ![grads](https://github.com/mateuszcedro/Beyond-the-Black-Box/blob/main/notebook/imgs/grads.png)
 
 ![grads](https://github.com/mateuszcedro/Beyond-the-Black-Box/blob/main/notebook/imgs/workflow_schema.png)
+
+Note: 
